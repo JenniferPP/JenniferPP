@@ -18,6 +18,7 @@
 <div style="display: inline_block"><br>
     <img src="https://aleen42.github.io/badges/src/photoshop.svg" alt="html5" aling="center">
     <img src="https://aleen42.github.io/badges/src/illustrator.svg">
+    
 </div><br/>
 
 Determina e pronta para qualquer desafio! Apaixonada pelo conhecimento e por novas possibilidades.
